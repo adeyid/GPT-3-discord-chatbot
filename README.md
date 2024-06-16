@@ -1,1 +1,1 @@
-# Discord Chatbot using GPT-3
+# Discord Chatbot
